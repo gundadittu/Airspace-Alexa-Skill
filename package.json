@@ -4,7 +4,7 @@
     "postinstall": "npm rebuild grpc --target=6.1.0 --target_arch=x64 --target_platform=linux --target_libc=glibc"
   },
   "dependencies": {
-    "airtable": "^0.5.10",
+    "airtable": "^0.9.0",
     "ask-sdk-core": "^2.5.1",
     "ask-sdk-model": "^1.15.0",
     "firebase": "^5.9.3",
